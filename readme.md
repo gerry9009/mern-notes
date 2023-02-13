@@ -14,10 +14,16 @@
 
 # MongoDB Atlas - Mongoose setup
 
--Create MongoDB
-
+- Create MongoDB project
 - add `npm i dotenv` and .env file to save mongodb data
 - add mongoose to manage MongoDB database `npm i mongoose`
 - `npm i envalid`-> validating and accessing environment variables
 
-  (Coding in Flow video)[https://www.youtube.com/watch?v=FcxjCPeicvU&t=820s&ab_channel=CodinginFlow]
+---
+
+# MongoDB model setup - Express error handling
+
+- create Mongo DB Schema `/models/note.ts`
+- In the `app.ts`, created error handles
+
+(Coding in Flow video)[https://www.youtube.com/watch?v=FcxjCPeicvU&t=820s&ab_channel=CodinginFlow]
