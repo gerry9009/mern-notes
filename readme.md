@@ -40,4 +40,6 @@
 
 # Updating & deleting notes
 
+- created CRUD options in MongoDB
+
 (Coding in Flow video)[https://www.youtube.com/watch?v=FcxjCPeicvU&t=820s&ab_channel=CodinginFlow] - 1:40
