@@ -26,4 +26,12 @@
 - create Mongo DB Schema `/models/note.ts`
 - In the `app.ts`, created error handles
 
+---
+
+# Routers, controllers, & creating notes
+
+- create file structure
+- create endpoints
+- `npm install morgan` it is a locking tools
+
 (Coding in Flow video)[https://www.youtube.com/watch?v=FcxjCPeicvU&t=820s&ab_channel=CodinginFlow]
