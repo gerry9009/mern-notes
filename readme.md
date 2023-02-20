@@ -26,4 +26,18 @@
 - create Mongo DB Schema `/models/note.ts`
 - In the `app.ts`, created error handles
 
-(Coding in Flow video)[https://www.youtube.com/watch?v=FcxjCPeicvU&t=820s&ab_channel=CodinginFlow]
+# Routers, controllers, & creating notes
+
+- create file structure
+- create endpoints
+- `npm install morgan` it is a locking tools
+
+# Express HTTP error handling
+
+- Handle error when a request is invalid
+- `npm install http-errors`
+- `npm i -D @types/http-errors`
+
+# Updating & deleting notes
+
+(Coding in Flow video)[https://www.youtube.com/watch?v=FcxjCPeicvU&t=820s&ab_channel=CodinginFlow] - 1:40
